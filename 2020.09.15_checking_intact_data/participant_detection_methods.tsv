@@ -1,0 +1,17 @@
+mi_identifier_A	short_name_A	mi_identifier_B	short_name_B
+MI:0661	experimental particp	MI:0661	experimental particp
+MI:0661	experimental particp	MI:0661	sequence tag
+MI:0661	experimental particp	MI:0661	weight autoradiogra
+MI:0661	experimental particp	MI:0661	weight silver stain
+MI:0102	sequence tag	MI:0102	experimental particp
+MI:0102	sequence tag	MI:0102	sequence tag
+MI:0102	sequence tag	MI:0102	weight autoradiogra
+MI:0102	sequence tag	MI:0102	weight silver stain
+MI:0821	weight autoradiogra	MI:0821	experimental particp
+MI:0821	weight autoradiogra	MI:0821	sequence tag
+MI:0821	weight autoradiogra	MI:0821	weight autoradiogra
+MI:0821	weight autoradiogra	MI:0821	weight silver stain
+MI:0817	weight silver stain	MI:0817	experimental particp
+MI:0817	weight silver stain	MI:0817	sequence tag
+MI:0817	weight silver stain	MI:0817	weight autoradiogra
+MI:0817	weight silver stain	MI:0817	weight silver stain
