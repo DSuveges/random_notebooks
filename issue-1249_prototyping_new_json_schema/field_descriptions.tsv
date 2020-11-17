@@ -1,0 +1,68 @@
+field_name	type	location	description	minimum	exclusiveMinimum	maximum	accepted_values	nullable	pattern	data_source
+allelicRequirement	string	root								clingen,gene2phenotype
+biologicalModel	array	root								phenodigm
+AllelicComposition	string	biologicalModel								
+GeneticBackground	string	biologicalModel								
+clinicalPhase	integer	root		1		4				chembl
+clinicalSignificance	array	root								eva,eva_somatic
+clinicalStatus	string	root								chembl
+clinicalUrls	array	root								chembl
+url	string	clinicalUrls								
+niceName	string	clinicalUrls								
+cohortDescription	string	root								intogen
+cohortId	string	root								intogen
+cohortShortName	string	root								intogen
+confidence	string	root								clingen,gene2phenotype
+confidenceIntervalLower	number	root	Lower value of the confidence interval					TRUE		ot_genetics_portal
+confidenceIntervalUpper	number	root	Upper value of the confidence interval					TRUE		ot_genetics_portal
+contrast	string	root								expression_atlas
+datasourceId	string	root						FALSE		cancer_gene_census,chembl,clingen,crispr,europepmc,eva,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phenodigm,phewas_catalog,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
+diseaseFromSource	string	root						FALSE		clingen,eva,eva_somatic,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phenodigm,phewas_catalog
+diseaseId	string	root						FALSE		cancer_gene_census,chembl,clingen,crispr,europepmc,eva,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phenodigm,phewas_catalog,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
+diseaseModelAssociatedHumanPhenotypes	array	root								phenodigm
+id	string	diseaseModelAssociatedHumanPhenotypes								
+label	string	diseaseModelAssociatedHumanPhenotypes								
+diseaseModelAssociatedModelPhenotypes	array	root								phenodigm
+id	string	diseaseModelAssociatedModelPhenotypes								
+label	string	diseaseModelAssociatedModelPhenotypes								
+drugId	string	root								chembl
+id	string	skip						FALSE		
+literature	array	root						TRUE		cancer_gene_census,crispr,europepmc,eva,eva_somatic,genomics_england,ot_genetics_portal,reactome,sysbio,uniprot_literature,uniprot_somatic
+locus2GeneScore	number	root	Locus to gene score		0	1		FALSE		ot_genetics_portal
+log2FoldChangePercentileRank	number	root								expression_atlas
+log2FoldChangeValue	number	root								expression_atlas
+oddsRatio	number	root	Odds ratio of the association					TRUE		ot_genetics_portal,phewas_catalog
+pathwayId	string	root								progeny,reactome,slapenrich
+pathwayName	string	root								progeny,reactome,slapenrich
+publicationFirstAuthor	string	root	First author of the publication					TRUE		ot_genetics_portal
+publicationYear	integer	root	Year of publication					TRUE		ot_genetics_portal
+recordId	integer	root								clingen,eva,eva_somatic
+resourceScore	number	root								cancer_gene_census,clingen,crispr,europepmc,eva,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phewas_catalog,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
+resourceScoreExponent	integer	root	Exponent of the association p-value			0		FALSE		ot_genetics_portal
+resourceScoreMantissa	number	root	Mantissa of the association p-value		0			FALSE		ot_genetics_portal
+resourceScoreType	string	root								cancer_gene_census,clingen,crispr,europepmc,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
+score	number	skip						FALSE		
+significantDriverMethods	array	root								intogen
+studyCases	string	root								phewas_catalog
+studyId	string	root	Identifier of the study					FALSE		expression_atlas,genomics_england,ot_genetics_portal
+studyOverview	string	root								expression_atlas,sysbio
+studySampleSize	integer	root	Sample size of the GWAS study		0			FALSE		ot_genetics_portal
+targetId	string	root						FALSE		cancer_gene_census,chembl,clingen,crispr,europepmc,eva,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phenodigm,phewas_catalog,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
+targetModulation	string	root								reactome
+textMiningSentences	array	root								europepmc
+dEnd	integer	textMiningSentences								
+dStart	integer	textMiningSentences								
+section	string	textMiningSentences								
+tEnd	integer	textMiningSentences								
+text	string	textMiningSentences								
+tStart	integer	textMiningSentences								
+variantFunctionalConsequenceId	string	root	SO code of the functional consequence of the variant					FALSE		eva,ot_genetics_portal,phewas_catalog
+variantFunctionalConsequenceScore	number	skip								
+variantId	string	root	Identifier of the variant in the OpenTargets Genetics portal					FALSE		ot_genetics_portal
+variantRsId	string	root	rs identifier of the variant					TRUE	^rs[0-9]{1,}$	eva,ot_genetics_portal,phewas_catalog
+variations	array	root								intogen,reactome
+functionalConsequenceId	string	variations								
+variantAminoacidDescription	string	variations								
+numberMutatedSamples	integer	variations								
+numberSamplesTested	integer	variations								
+numberSamplesWithMutationType	integer	variations								
