@@ -1,68 +1,67 @@
-field_name	type	location	description	minimum	exclusiveMinimum	maximum	accepted_values	nullable	pattern	data_source
-allelicRequirement	string	root								clingen,gene2phenotype
-biologicalModel	array	root								phenodigm
-AllelicComposition	string	biologicalModel								
-GeneticBackground	string	biologicalModel								
-clinicalPhase	integer	root		1		4				chembl
-clinicalSignificance	array	root								eva,eva_somatic
-clinicalStatus	string	root								chembl
-clinicalUrls	array	root								chembl
-url	string	clinicalUrls								
-niceName	string	clinicalUrls								
-cohortDescription	string	root								intogen
-cohortId	string	root								intogen
-cohortShortName	string	root								intogen
-confidence	string	root								clingen,gene2phenotype
-confidenceIntervalLower	number	root	Lower value of the confidence interval					TRUE		ot_genetics_portal
-confidenceIntervalUpper	number	root	Upper value of the confidence interval					TRUE		ot_genetics_portal
-contrast	string	root								expression_atlas
-datasourceId	string	root						FALSE		cancer_gene_census,chembl,clingen,crispr,europepmc,eva,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phenodigm,phewas_catalog,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
-diseaseFromSource	string	root						FALSE		clingen,eva,eva_somatic,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phenodigm,phewas_catalog
-diseaseId	string	root						FALSE		cancer_gene_census,chembl,clingen,crispr,europepmc,eva,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phenodigm,phewas_catalog,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
-diseaseModelAssociatedHumanPhenotypes	array	root								phenodigm
-id	string	diseaseModelAssociatedHumanPhenotypes								
-label	string	diseaseModelAssociatedHumanPhenotypes								
-diseaseModelAssociatedModelPhenotypes	array	root								phenodigm
-id	string	diseaseModelAssociatedModelPhenotypes								
-label	string	diseaseModelAssociatedModelPhenotypes								
-drugId	string	root								chembl
-id	string	skip						FALSE		
-literature	array	root						TRUE		cancer_gene_census,crispr,europepmc,eva,eva_somatic,genomics_england,ot_genetics_portal,reactome,sysbio,uniprot_literature,uniprot_somatic
-locus2GeneScore	number	root	Locus to gene score		0	1		FALSE		ot_genetics_portal
-log2FoldChangePercentileRank	number	root								expression_atlas
-log2FoldChangeValue	number	root								expression_atlas
-oddsRatio	number	root	Odds ratio of the association					TRUE		ot_genetics_portal,phewas_catalog
-pathwayId	string	root								progeny,reactome,slapenrich
-pathwayName	string	root								progeny,reactome,slapenrich
-publicationFirstAuthor	string	root	First author of the publication					TRUE		ot_genetics_portal
-publicationYear	integer	root	Year of publication					TRUE		ot_genetics_portal
-recordId	integer	root								clingen,eva,eva_somatic
-resourceScore	number	root								cancer_gene_census,clingen,crispr,europepmc,eva,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phewas_catalog,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
-resourceScoreExponent	integer	root	Exponent of the association p-value			0		FALSE		ot_genetics_portal
-resourceScoreMantissa	number	root	Mantissa of the association p-value		0			FALSE		ot_genetics_portal
-resourceScoreType	string	root								cancer_gene_census,clingen,crispr,europepmc,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
-score	number	skip						FALSE		
-significantDriverMethods	array	root								intogen
-studyCases	string	root								phewas_catalog
-studyId	string	root	Identifier of the study					FALSE		expression_atlas,genomics_england,ot_genetics_portal
-studyOverview	string	root								expression_atlas,sysbio
-studySampleSize	integer	root	Sample size of the GWAS study		0			FALSE		ot_genetics_portal
-targetId	string	root						FALSE		cancer_gene_census,chembl,clingen,crispr,europepmc,eva,eva_somatic,expression_atlas,gene2phenotype,genomics_england,intogen,ot_genetics_portal,phenodigm,phewas_catalog,progeny,reactome,slapenrich,sysbio,uniprot_literature,uniprot_somatic
-targetModulation	string	root								reactome
-textMiningSentences	array	root								europepmc
-dEnd	integer	textMiningSentences								
-dStart	integer	textMiningSentences								
-section	string	textMiningSentences								
-tEnd	integer	textMiningSentences								
-text	string	textMiningSentences								
-tStart	integer	textMiningSentences								
-variantFunctionalConsequenceId	string	root	SO code of the functional consequence of the variant					FALSE		eva,ot_genetics_portal,phewas_catalog
-variantFunctionalConsequenceScore	number	skip								
-variantId	string	root	Identifier of the variant in the OpenTargets Genetics portal					FALSE		ot_genetics_portal
-variantRsId	string	root	rs identifier of the variant					TRUE	^rs[0-9]{1,}$	eva,ot_genetics_portal,phewas_catalog
-variations	array	root								intogen,reactome
-functionalConsequenceId	string	variations								
-variantAminoacidDescription	string	variations								
-numberMutatedSamples	integer	variations								
-numberSamplesTested	integer	variations								
-numberSamplesWithMutationType	integer	variations								
+field_name	type	location	description	minimum	exclusiveMinimum	maximum	example	accepted_values	pattern
+allelicRequirements	array	root	Inheritance patterns						
+biologicalModelAllelicComposition	string	root	Allelic composition of the model organism				Lepr<tm1Jke>/Lepr<tm1Jke>		
+biologicalModelGeneticBackground	string	root	Genetic background of the model organism				involves: 129X1/SvJ		
+clinicalPhase	integer	root	Phase of the clinical trial	0		4			
+clinicalSignificances	array	root	Standard terms to define clinical significance				pathogenic	uncertain significance|pathogenic|likely benign|association not found|other|benign|association|risk factor|likely pathogenic|not provided|affects|protective|drug response|conflicting interpretations of pathogenicity	
+clinicalStatus	string	root	Current stage of a clinical study				Enrolling by invitation	Suspended|Unknown status|Completed|Enrolling by invitation|Not yet recruiting|Recruiting|Terminated|N/A|Withdrawn|Active, not recruiting	
+clinicalUrls	array	root	Reference to linked clinical information (studies, package inserts, etc.)						
+url	string	clinicalUrls					https://clinicaltrials.gov/search?id=%22NCT01917656%22		https://|http://
+niceName	string	clinicalUrls						Clinical Trials|DailyMed|FDA|ATC	
+cohortDescription	string	root	Description of the studied cohort				Prostate adenocarcinoma data from SU2C-PCF Dream Team		
+cohortId	string	root	Identifier of the studied cohort				CBIOP_WXS_PRAD_SU2C_2019		
+cohortShortName	string	root	Short name of the studied cohort				PRAD_SU2C_MET		
+cohortPhenotypes	array	root	Clinical features/phenotypes observed in studied individuals				Anterior segment dysgenesis 5		
+confidence	string	root	Confidence qualifier on the reported evidence						
+confidenceIntervalLower	number	root	Lower value of the confidence interval						
+confidenceIntervalUpper	number	root	Upper value of the confidence interval						
+contrast	string	root	Experiment contrast				glioblastoma vs normal		
+datasourceId	string	root							
+datatypeId	string	root						affected_pathway|literature|rna_expression|genetic_literature|animal_model|somatic_mutation|known_drug|genetic_association	
+diseaseCellLines	array	root	Cancer cell lines used to generate evidence						
+diseaseFromSource	string	root	Disease label from the original source				MYOPATHY, SPHEROID BODY		
+diseaseFromSourceId	string	root	Disease ID from the original source				OMIM:182920		
+diseaseId	string	root	Identifier of the disease in the EFO ontology				EFO_0005537		(^NCIT_C\d+$|^Orphanet_\d+$|^GO_\d+$|^HP_\d+$|^EFO_\d+$|^MONDO_\d+$|^DOID_\d+$|^MP_\d+$)
+diseaseModelAssociatedHumanPhenotypes	array	root	Human phenotypes equivalent to those observed in animal models						
+id	string	diseaseModelAssociatedHumanPhenotypes							^HP:\d+$
+label	string	diseaseModelAssociatedHumanPhenotypes							
+diseaseModelAssociatedModelPhenotypes	array	root	Phenotypes observed in genetically-modified animal models						
+id	string	diseaseModelAssociatedModelPhenotypes					MP:0002060		^MP:\d+$
+label	string	diseaseModelAssociatedModelPhenotypes					abnormal skin morphology		
+drugId	string	root	Drug molecule ID				CHEMBL1431|CHEMBL803		^(CHEMBL)\d+$
+literature	array	root	Literature reference identifiers (Pubmed or PMC)						\d+$
+log2FoldChangePercentileRank	integer	root	Percentile of top differentially regulated genes (transcripts) within experiment						
+log2FoldChangeValue	number	root	Log2 fold expression change in contrast experiment						
+mutatedSamples	array	root							
+functionalConsequenceId	string	mutatedSamples	Sequence ontology (SO) identifier of the functional consequence of the variant				SO_0001628		SO_\d+
+numberMutatedSamples	integer	mutatedSamples	Number of cohort samples in which target is mutated with a specific mutation type		0				
+numberSamplesTested	integer	mutatedSamples	Number of cohort samples tested		0				
+numberSamplesWithMutationType	integer	mutatedSamples	Number of cohort samples in which target is mutated with a specific mutation type		0				
+oddsRatio	number	root	Odds ratio (e.g GWAS association)						
+pathwayId	string	root	Pathway or gene set ID				R-HSA-4615885		^(R-HSA-)\d+$
+pValueExponent	integer	root	p-value (e.g. GWAS association) exponent			-8			
+pValueMantissa	number	root	p-value (e.g. GWAS association) exponent	0					
+pathwayName	string	root	Pathway or gene set name				Chaperonin-mediated protein folding|Signaling by FGFR3		
+publicationFirstAuthor	string	root	First author of the publication				Davies G|Kanai M|Pirastu N|Astle WJ|Kichaev G		
+publicationYear	integer	root	Year of publication						\d{4}$
+reactionId	string	root	Pathway reaction ID				R-HSA-9660615		^(R-HSA-)\d+$
+resourceScore	number	root	Score provided by datasource indicating strength of target-disease association	0					
+significantDriverMethods	array	root	Methods to detect cancer driver genes producing significant results				mutpanning	oncodriveclustl|combination|smregions|mutpanning|cbase|hotmaps|dndscv|oncodrivefml	
+studyCases	integer	root	Number of cases in case-control study		0				
+studyId	string	root	Identifier of the study						
+studyOverview	string	root	Description of the study						
+studySampleSize	integer	root	Sample size of study		0				
+targetFromSourceId	string	root	Target ID in resource of origin (accepted sources include Ensembl gene ID, Uniprot ID, gene symbol)				BRCA1|ENSG00000012048|P38398		
+targetInModel	string	root	Target ID in animal model						^(ENSMUSG)\d+$
+targetModulation	string	root	Description of target modulation event						
+textMiningSentences	array	root							
+dEnd	integer	textMiningSentences	Index position where disease name ends in sentence						
+dStart	integer	textMiningSentences	Index position where disease name starts in sentence						
+section	string	textMiningSentences	Section in which sentence occurs					title|table|other|figure|appendix|abstract	
+tEnd	integer	textMiningSentences	Index position where target name ends in sentence						
+text	string	textMiningSentences	Sentence text						
+tStart	integer	textMiningSentences	Index position where target name starts in sentence						
+variantFunctionalConsequenceId	string	root	Sequence ontology (SO) identifier of the functional consequence of the variant				SO_0001628		SO_\d+
+variantId	string	root	Identifier of the variant using CHROM_POS_REF_ALT notation				20_41203988_T_C		^[0-9XY]{1,2}_\d+_[ACTG]+_[ACTG]+$
+variantRsId	string	root	Variant reference SNP cluster ID (Rsid)				rs539139475		^rs[0-9]{1,}$
+variantAminoacidDescriptions	array	root	Descriptions of variant consequences at protein level				glycine 598 replaced with L-valine|Deletion of residues 550 to 558		
