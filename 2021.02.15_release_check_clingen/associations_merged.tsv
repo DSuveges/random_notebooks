@@ -1,0 +1,110 @@
+target_id	target_symbol	disease_id	disease_label	old_studies	new_studies	assoc_changed	expression_atlas	europepmc	slapenrich	crispr	progeny	intogen	cancer_gene_census	eva_somatic	sysbio	gwas_catalog	uniprot_literature	phenodigm	ot_genetics_portal	chembl	genomics_england	clingen	phewas_catalog	eva	gene2phenotype	postgap	reactome	uniprot_somatic
+ENSG00000108576	SLC6A4	MONDO_0100038	complex neurodevelopmental disorder	['cc4b0612-0a53-4e36-b737-5c0f49a387a1--2018-05-02T17:00:00']		Association lost																						
+ENSG00000136717	BIN1	MONDO_0009709	myopathy, centronuclear, 2	['c4b0f110-f8ff-4814-98c7-faa78a7cba16--2020-06-26T14:02:37']		Association lost																						
+ENSG00000158352	SHROOM4	MONDO_0100038	complex neurodevelopmental disorder	['a94d20f8-9909-48b2-9860-d17c6dc73ec3--2020-07-15T20:01:18']		Association lost																						
+ENSG00000189056	RELN	MONDO_0100038	complex neurodevelopmental disorder	['c654081c-5abd-4f86-a3f7-90d7f117b93d--2019-05-01T16:00:00']		Association lost																						
+ENSG00000197779	ZNF81	MONDO_0019181	non-syndromic X-linked intellectual disability	['a3ada757-6500-46a1-a89e-42668bbdb934--2018-06-28T18:56:10']		Association lost																						
+ENSG00000004848	ARX	MONDO_0100038	complex neurodevelopmental disorder		['ccf3ab49-ee8f-4980-aa04-ca13c21c124a--2020-12-01T18:00:00']	Association gained	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000010671	BTK	MONDO_0010421	Bruton-type agammaglobulinemia		['8dc4d594-2103-46ad-a786-f4bda9b95995--2020-10-20T16:00:00']	Association gained																						
+ENSG00000010671	BTK	MONDO_0010615	isolated growth hormone deficiency type III		['6341781b-9ba9-41b1-889a-8d65a9b3ebb7--2020-11-17T17:00:00']	Association gained																						
+ENSG00000035403	VCL	MONDO_0005021	dilated cardiomyopathy		['2d46699a-5f8c-460d-9233-bec4e2ecf560--2020-11-06T18:26:45']	Association gained																						
+ENSG00000036257	CUL3	MONDO_0100038	complex neurodevelopmental disorder		['fb529ace-86b5-4209-9974-9c07a1c32956--2021-01-16T03:09:42']	Association gained	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000050555	LAMC3	MONDO_0100038	complex neurodevelopmental disorder		['0ff89702-c97e-4ef9-91ce-2e37b66efd84--2020-09-01T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000053918	KCNQ1	MONDO_0002442	long QT syndrome		['dff8874e-98a1-472b-9cc2-3f441b1c1064--2018-09-25T04:00:00']	Association gained																						
+ENSG00000055118	KCNH2	MONDO_0002442	long QT syndrome		['462eeb4e-357d-4c3d-89f0-e386ac0d011b--2018-09-25T04:00:00']	Association gained																						
+ENSG00000069431	ABCC9	MONDO_0005021	dilated cardiomyopathy		['8be22ebc-f0f5-4de5-9c2a-382ebd02c533--2020-11-13T17:00:00']	Association gained																						
+ENSG00000069974	RAB27A	MONDO_0011872	Griscelli syndrome type 2		['--2020-12-17T17:16:00']	Association gained																						
+ENSG00000072195	SPEG	MONDO_0014418	myopathy, centronuclear, 5		['3a8f91f1-da1e-489d-84e1-46aa543b3df9--2020-01-12T21:34:16']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000080815	PSEN1	MONDO_0005021	dilated cardiomyopathy		['d71e8591-dece-4855-ae6c-d43e20cbf836--2020-11-06T17:00:00', 'd71e8591-dece-4855-ae6c-d43e20cbf836--2020-11-06T18:11:52']	Association gained																						
+ENSG00000083093	PALB2	MONDO_0012565	Fanconi anemia complementation group N		['3ebabbf1-1a43-4a57-b0b8-2b29bb57ade1--2019-08-18T16:03:12']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	14.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000083123	BCKDHB	MONDO_0023692	maple syrup urine disease type 1B		['0b0d314c-7355-441c-a357-72ba3e566c57--2019-02-08T17:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000092054	MYH7	MONDO_0005021	dilated cardiomyopathy		['4ec27d4f-70ea-4c6a-ad67-d6260ecadcde--2020-11-13T17:00:00']	Association gained																						
+ENSG00000100285	NEFH	MONDO_0014836	Charcot-Marie-Tooth disease axonal type 2CC		['8e1390ea-fd6c-4fa4-9b43-0eccff9e2829--2020-10-05T16:16:45']	Association gained	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000102104	RS1	MONDO_0010725	X-linked retinoschisis		['061adaaf-8b09-42e4-ae31-9b9c03d6e944--2020-12-18T16:58:03']	Association gained																						
+ENSG00000105369	CD79A	MONDO_0013288	agammaglobulinemia 3, autosomal recessive		['12a6257c-c9ca-432a-ab76-b05985283381--2020-12-15T13:59:09']	Association gained																						
+ENSG00000105639	JAK3	MONDO_0010938	T-B+ severe combined immunodeficiency due to JAK3 deficiency		['669dcacf-8423-4507-a36c-feab049737b3--2020-12-18T20:05:20']	Association gained																						
+ENSG00000108176	DNAJC12	MONDO_0044304	hyperphenylalaninemia due to DNAJC12 deficiency		['500ad0d5-2871-4b25-a96f-0c0816524a4b--2021-01-11T18:48:23']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000108576	SLC6A4	MONDO_0005258	autism spectrum disorder		['cc4b0612-0a53-4e36-b737-5c0f49a387a1--2021-01-08T15:37:59']	Association gained																						
+ENSG00000108946	PRKAR1A	MONDO_0008057	Carney complex, type 1		['fc16b2a9-c8dc-4a04-a029-2f6af049404d--2018-12-21T15:40:44']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	2.0	0.0	0.0	0.0
+ENSG00000110436	SLC1A2	MONDO_0014916	developmental and epileptic encephalopathy, 41		['ebb83674-206f-461b-b98e-e12420208deb--2020-10-29T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000111199	TRPV4	MONDO_0007986	metatropic dysplasia		['70f8ac2b-5570-4672-b0ee-2f3a342ccd44--2020-12-08T17:00:00']	Association gained																						
+ENSG00000112234	FBXL4	MONDO_0009723	Leigh syndrome		['fed67104-182c-48f2-85c0-ecb05cd6dd72--2020-11-23T19:31:17']	Association gained																						
+ENSG00000112855	HARS2	MONDO_0013972	Perrault syndrome 2		['5c5ed5f6-4068-4e15-a195-6098e4ee2093--2018-05-15T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	7.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000113263	ITK	MONDO_0013081	lymphoproliferative syndrome 1		['63552229-5e8c-4a94-b428-ec9a56a0aa5f--2019-11-21T19:31:48']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000115392	FANCL	MONDO_0013566	Fanconi anemia complementation group L		['93d0cb5f-4859-4b28-b647-3f8226fe5921--2020-07-30T20:38:45']	Association gained	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	13.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000115919	KYNU	MONDO_0060555	vertebral, cardiac, renal, and limb defects syndrome 2		['70d2f25f-b3f0-4f1b-b7bf-ad8d3562c959--2020-07-10T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000117400	MPL	MONDO_0011173	thrombocythemia 2		['23b39955-2760-46aa-978b-d27d4a212567--2020-07-22T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000119401	TRIM32	MONDO_0015152	autosomal recessive limb-girdle muscular dystrophy		['fbabe4ea-579e-4d98-a4b7-5ff84ee7f245--2020-11-05T21:01:06']	Association gained																						
+ENSG00000119514	GALNT12	MONDO_0012132	colorectal cancer, susceptibility to, 1		['8435']	Association gained																						
+ENSG00000119537	KDSR	MONDO_0033014	erythrokeratodermia variabilis et progressiva 4		['0a5d1542-feb7-4aaf-9079-55da7fb99a4a--2020-07-22T16:00:00']	Association gained	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000119888	EPCAM	MONDO_0013196	colorectal cancer, hereditary nonpolyposis, type 8		['9852']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000120149	MSX2	MONDO_0011481	craniosynostosis 2		['ac8a9313-9ef2-4556-9a25-db7fa2ed99ed--2020-09-28T17:00:00']	Association gained																						
+ENSG00000120457	KCNJ5	MONDO_0002442	long QT syndrome		['6fa6a520-ae6b-4638-a092-a61831d481bf--2020-12-15T00:26:41']	Association gained																						
+ENSG00000120903	CHRNA2	MONDO_0000030	epilepsy, nocturnal frontal lobe		['0f832b8a-af5a-494e-bfdb-70cc619addf1--2020-12-25T01:56:52']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000120903	CHRNA2	MONDO_0005579	epilepsy, idiopathic generalized		['ce166e6d-92ad-49fc-a3c3-e473b0cabf0d--2020-01-07T17:00:00']	Association gained																						
+ENSG00000120903	CHRNA2	MONDO_0011140	benign familial neonatal-infantile seizures		['7916abab-d963-4e9c-8913-1decc21b680c--2020-01-07T17:00:00']	Association gained																						
+ENSG00000122335	SERAC1	MONDO_0009723	Leigh syndrome		['bf6861ce-e13a-42c9-a4ff-942a83874bfd--2021-01-14T21:33:56']	Association gained																						
+ENSG00000123700	KCNJ2	MONDO_0002442	long QT syndrome		['5dc2acbc-8dbe-4142-8f71-89f1576dde08--2020-12-15T00:25:35']	Association gained																						
+ENSG00000128591	FLNC	MONDO_0005021	dilated cardiomyopathy		['edb5197f-05dc-42a4-a497-fff472985c6b--2020-11-06T17:00:00']	Association gained																						
+ENSG00000128973	CLN6	MONDO_0016295	neuronal ceroid lipofuscinosis		['09654b45-6649-4d11-b43e-aeb6d20fb86d--2020-12-01T17:00:00']	Association gained																						
+ENSG00000129170	CSRP3	MONDO_0005021	dilated cardiomyopathy		['beaafc90-20ef-4c81-ad8f-cfcf69d269ca--2020-11-06T16:52:45']	Association gained																						
+ENSG00000132429	POPDC3	MONDO_0015152	autosomal recessive limb-girdle muscular dystrophy		['bb7755df-a1e3-4398-a771-cd6c2d112b68--2021-01-13T19:42:10']	Association gained																						
+ENSG00000136492	BRIP1	MONDO_0012187	Fanconi anemia complementation group j		['40aae4ea-8c9b-42a7-9d02-0f52a184712f--2019-08-18T16:04:42']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	15.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000136535	TBR1	MONDO_0100038	complex neurodevelopmental disorder		['853c90ef-34a8-4d7d-931d-5fb4add3e4d0--2020-03-25T16:00:00']	Association gained	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	3.0	1.0	0.0	23.0	1.0	0.0	0.0	0.0
+ENSG00000138821	SLC39A8	MONDO_0009723	Leigh syndrome		['5fddaae4-d982-49e7-9e83-b84d15f3cf2c--2020-11-23T19:51:04']	Association gained																						
+ENSG00000139083	ETV6	MONDO_0014536	thrombocytopenia 5		['92a8c1cb-91c1-45cd-adbe-4180b1f6da7d--2020-01-22T17:00:00']	Association gained	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000139219	COL2A1	MONDO_0008702	achondrogenesis type II		['14640c06-c66e-4dc7-86ea-9b0850e51474--2020-10-05T17:00:00']	Association gained																						
+ENSG00000140416	TPM1	MONDO_0005021	dilated cardiomyopathy		['1173d239-23cf-4c9c-9ea5-f95d9356e6c7--2020-11-13T17:00:00']	Association gained																						
+ENSG00000141510	TP53	MONDO_0007903	Li-Fraumeni syndrome 1		['78494aba-bb52-4b33-bf1d-ebbb5374df4b--2020-05-14T00:55:23']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	7.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000143933	CALM2	MONDO_0002442	long QT syndrome		['86e4b783-3b60-4a1d-ab34-e61d27751ca6--2018-09-25T16:00:00']	Association gained																						
+ENSG00000144285	SCN1A	MONDO_0012320	migraine, familial hemiplegic, 3		['c8c1e158-983d-4547-a739-7781961e5bb8--2020-01-24T03:11:05']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	4.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000145362	ANK2	MONDO_0002442	long QT syndrome		['--2020-12-15T00:27:19']	Association gained																						
+ENSG00000145362	ANK2	MONDO_0100038	complex neurodevelopmental disorder		['097e646b-467f-4c08-95d6-958ed324562b--2020-12-15T17:52:41']	Association gained	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000150768	DLAT	MONDO_0009723	Leigh syndrome		['78e45dbe-ea30-434d-9522-aa1731b9a764--2021-01-14T21:20:56']	Association gained																						
+ENSG00000151445	VIPAS39	MONDO_0013255	arthrogryposis, renal dysfunction, and cholestasis 2		['b87d2443-a34d-41b1-8712-bcd346e3cf52--2020-12-16T18:06:49']	Association gained																						
+ENSG00000152217	SETBP1	MONDO_0100038	complex neurodevelopmental disorder		['70505ca8-8869-4fa9-9965-fc8e03a19b28--2020-10-20T16:00:00']	Association gained	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000154358	OBSCN	MONDO_0005021	dilated cardiomyopathy		['e1b69281-f3d0-4efe-998d-db080868b57e--2020-11-06T18:06:24']	Association gained																						
+ENSG00000155657	TTN	MONDO_0005021	dilated cardiomyopathy		['1ec53217-814e-44b3-a7b7-0f18311c20f3--2020-11-06T18:21:52']	Association gained																						
+ENSG00000155755	TMEM237	MONDO_0013745	Joubert syndrome 14		['--2020-08-27T13:32:03']	Association gained																						
+ENSG00000156170	NDUFAF6	MONDO_0009723	Leigh syndrome		['f7b6ace1-5b89-41c7-83a6-d6f37826d8c5--2020-11-23T19:42:12']	Association gained																						
+ENSG00000157119	KLHL40	MONDO_0014138	nemaline myopathy 8		['dd1008a8-dd54-43d0-962c-82453975dc3a--2019-11-05T13:46:03']	Association gained	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000159197	KCNE2	MONDO_0002442	long QT syndrome		['9912be79-b172-46ca-a67c-99698de5590b--2020-12-15T00:23:41']	Association gained																						
+ENSG00000160014	CALM3	MONDO_0002442	long QT syndrome		['3cc2a1ae-5f3d-445c-b124-f3d38fdd070a--2018-09-25T16:00:00']	Association gained																						
+ENSG00000160213	CSTB	MONDO_0009698	Unverricht-Lundborg syndrome		['2926506c-5b75-4340-b821-e3ac846b6621--2020-06-16T16:00:00']	Association gained																						
+ENSG00000160213	CSTB	MONDO_0100062	developmental and epileptic encephalopathy		['accafcd4-ba3c-4049-9285-1de877d256ec--2020-12-01T17:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000160789	LMNA	MONDO_0005021	dilated cardiomyopathy		['132ea1ec-caa9-409a-8670-3edb2ec9c889--2020-11-06T17:53:04']	Association gained																						
+ENSG00000162129	CLPB	MONDO_0009723	Leigh syndrome		['789c591d-1de7-4652-a0d1-f895b639233e--2020-11-23T20:10:57']	Association gained																						
+ENSG00000162882	HAAO	MONDO_0060554	vertebral, cardiac, renal, and limb defects syndrome 1		['89484d6b-0af1-4b77-9dcb-95c18331e3b7--2020-07-10T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000163513	TGFBR2	MONDO_0012427	Loeys-Dietz syndrome 2		['73be8b4f-d823-44e5-ab76-faa3bc8eca84--2020-11-25T18:00:00']	Association gained																						
+ENSG00000163755	HPS3	MONDO_0013555	Hermansky-Pudlak syndrome 3		['80370671-df62-4330-89f4-216d350e5958--2020-02-26T17:00:00']	Association gained	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000164182	NDUFAF2	MONDO_0009723	Leigh syndrome		['7c26c06d-17dc-4783-8145-5de35c9a73f5--2020-11-23T19:36:34']	Association gained																						
+ENSG00000165410	CFL2	MONDO_0012538	nemaline myopathy 7		['3c04b972-6797-42e7-87e8-ee97eb0bbad7--2019-11-25T15:01:39']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	4.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000165702	GFI1B	MONDO_0008553	platelet-type bleeding disorder 17		['62841ea9-5bd8-4250-ab41-31d7cf82d2e3--2019-11-27T17:00:00']	Association gained	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000166189	HPS6	MONDO_0013558	Hermansky-Pudlak syndrome 6		['602ae8f1-9e7f-4cc6-bf70-d572d98828c5--2020-11-25T17:00:00']	Association gained																						
+ENSG00000167216	KATNAL2	MONDO_0100038	complex neurodevelopmental disorder		['eddbdd3e-2f6b-4b55-a951-988ee214b08b--2020-05-20T16:00:00']	Association gained	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000170876	TMEM43	MONDO_0011459	arrhythmogenic right ventricular dysplasia 5		['675dc788-9749-413f-93ce-8c1fc3adbe84--2018-10-26T16:00:00']	Association gained	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000171865	RNASEH1	MONDO_0009723	Leigh syndrome		['fcf8b7a4-7bd5-45fe-824c-6a90825620f7--2021-01-14T21:38:24']	Association gained																						
+ENSG00000172915	NBEA	MONDO_0100038	complex neurodevelopmental disorder		['f40357db-6cc2-4240-8771-1206cd27298a--2020-12-02T17:00:00']	Association gained	0.0	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000182533	CAV3	MONDO_0002442	long QT syndrome		['--2020-12-15T00:28:55']	Association gained																						
+ENSG00000182621	PLCB1	MONDO_0013389	developmental and epileptic encephalopathy, 12		['c7887c3b-332b-4586-93cf-4098796ab66f--2020-09-19T03:54:30']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000183072	NKX2-5	MONDO_0005021	dilated cardiomyopathy		['6335de7f-71db-4768-8fa0-6faebd0ea0e8--2020-11-06T17:00:00']	Association gained																						
+ENSG00000183337	BCOR	MONDO_0010261	microphthalmia, syndromic 2		['3da06b77-1ed0-4197-948c-a9bbf80b6ed4--2020-12-17T17:13:47']	Association gained																						
+ENSG00000183873	SCN5A	MONDO_0005021	dilated cardiomyopathy		['53c90d2e-4d40-48ab-8761-b0158102c977--2020-11-06T18:16:22']	Association gained																						
+ENSG00000183873	SCN5A	MONDO_0019171	familial long QT syndrome		['ab19e69c-50fb-41e3-8adf-4d27617f3d55--2018-09-25T16:00:00']	Association gained																						
+ENSG00000187566	NHLRC1	MONDO_0009697	Lafora disease		['c4dbe715-b897-482d-afeb-b05c0653a79a--2020-03-03T17:00:00']	Association gained																						
+ENSG00000188229	TUBB4B	MONDO_0060650	Leber congenital amaurosis with early-onset deafness		['3b80d55d-0060-4b1c-849b-648011337400--2018-06-26T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000188706	ZDHHC9	MONDO_0010427	syndromic X-linked intellectual disability Raymond type		['2156b925-1ee6-4edb-a514-3650aa5b780e--2020-08-12T14:50:49']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000189043	NDUFA4	MONDO_0009723	Leigh syndrome		['2854d105-0d20-4a19-9dee-d7aa6a60ed99--2021-01-14T21:44:39']	Association gained																						
+ENSG00000196511	TPK1	MONDO_0009723	Leigh syndrome		['74e89426-cb27-4474-b892-dc303a9de644--2021-01-14T21:28:00']	Association gained																						
+ENSG00000196839	ADA	MONDO_0007064	adenosine deaminase deficiency		['664ba77c-3db6-47da-941e-316ac819432a--2020-11-19T17:00:00']	Association gained																						
+ENSG00000196924	FLNA	MONDO_0020341	periventricular nodular heterotopia		['80bc6280-7c21-4168-8a98-93c31fead5d7--2020-12-27T23:11:55']	Association gained																						
+ENSG00000198523	PLN	MONDO_0016587	arrhythmogenic right ventricular cardiomyopathy		['13027de9-c84a-4968-936b-6356265193a6--2020-12-17T21:32:24']	Association gained																						
+ENSG00000198626	RYR2	MONDO_0011484	catecholaminergic polymorphic ventricular tachycardia 1		['8752']	Association gained	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000198668	CALM1	MONDO_0002442	long QT syndrome		['4a150cd9-e16b-4992-8cc7-5ccec44b4d6b--2018-09-25T16:00:00']	Association gained																						
+ENSG00000198734	F5	MONDO_0008560	thrombophilia due to activated protein C resistance		['ab28e09c-08ff-4149-a536-3cdb9cc4099f--2019-09-30T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000204217	BMPR2	MONDO_0015924	pulmonary arterial hypertension		['a20ce78b-18ba-436c-877e-a08d092ac7c7--2020-12-07T17:23:18']	Association gained																						
+ENSG00000204420	MPIG6B	MONDO_0044316	thrombocytopenia, anemia, and myelofibrosis		['03b93956-5abe-41f2-ba14-1e57952606b3--2020-10-28T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000234438	KBTBD13	MONDO_0012237	nemaline myopathy 6		['ff2f157e-741b-447d-a6c5-1d003e2e98e1--2020-06-22T14:20:22']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000239474	KLHL41	MONDO_0014326	nemaline myopathy 9		['b6bd51c2-e7b8-4938-a700-fd0e393143a7--2019-11-05T13:49:28']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000240583	AQP1	MONDO_0015924	pulmonary arterial hypertension		['29eda804-13df-4fe9-bbb3-9494b11edc92--2021-01-11T14:55:19']	Association gained																						
+ENSG00000248098	BCKDHA	MONDO_0023691	maple syrup urine disease type 1A		['5c89a6c7-751a-4a99-8a32-97cc33c5df7c--2018-09-14T16:00:00']	Association gained	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
