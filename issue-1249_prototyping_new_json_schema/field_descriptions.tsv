@@ -21,7 +21,7 @@ datatypeId	string	root						affected_pathway|literature|rna_expression|genetic_l
 diseaseCellLines	array	root	Cancer cell lines used to generate evidence						
 diseaseFromSource	string	root	Disease label from the original source				MYOPATHY, SPHEROID BODY		
 diseaseFromSourceId	string	root	Disease ID from the original source				OMIM:182920		
-diseaseId	string	root	Identifier of the disease in the EFO ontology				EFO_0005537		(^NCIT_C\d+$|^Orphanet_\d+$|^GO_\d+$|^HP_\d+$|^EFO_\d+$|^MONDO_\d+$|^DOID_\d+$|^MP_\d+$)
+diseaseFromSourceMappedId	string	root	Identifier of the disease in the EFO ontology				EFO_0005537		(^NCIT_C\d+$|^Orphanet_\d+$|^GO_\d+$|^HP_\d+$|^EFO_\d+$|^MONDO_\d+$|^DOID_\d+$|^MP_\d+$)
 diseaseModelAssociatedHumanPhenotypes	array	root	Human phenotypes equivalent to those observed in animal models						
 id	string	diseaseModelAssociatedHumanPhenotypes							^HP:\d+$
 label	string	diseaseModelAssociatedHumanPhenotypes							
@@ -29,7 +29,7 @@ diseaseModelAssociatedModelPhenotypes	array	root	Phenotypes observed in genetica
 id	string	diseaseModelAssociatedModelPhenotypes					MP:0002060		^MP:\d+$
 label	string	diseaseModelAssociatedModelPhenotypes					abnormal skin morphology		
 drugId	string	root	Drug molecule ID				CHEMBL1431|CHEMBL803		^(CHEMBL)\d+$
-literature	array	root	Literature reference identifiers (Pubmed or PMC)						\d+$
+literature	array	root	PubMed reference identifiers						\d+$
 log2FoldChangePercentileRank	integer	root	Percentile of top differentially regulated genes (transcripts) within experiment						
 log2FoldChangeValue	number	root	Log2 fold expression change in contrast experiment						
 mutatedSamples	array	root							
