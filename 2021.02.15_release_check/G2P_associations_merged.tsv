@@ -1,0 +1,253 @@
+target_id	disease_id	old_studies	new_studies	assoc_changed	disease_label	gene_symbol	expression_atlas	europepmc	slapenrich	crispr	progeny	intogen	cancer_gene_census	eva_somatic	sysbio	gwas_catalog	uniprot_literature	phenodigm	ot_genetics_portal	chembl	genomics_england	clingen	phewas_catalog	eva	gene2phenotype	postgap	reactome	uniprot_somatic
+ENSG00000004838	Orphanet_244	['biallelic_DD']		Lost	Primary ciliary dyskinesia	ZMYND10	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	19.0	0.0	0.0	5.0	0.0	0.0	64.0	0.0	0.0	0.0	0.0
+ENSG00000005339	EFO_0010252	['monoallelic_DD']		Lost	Menke-Hennekam syndrome 1	CREBBP	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000006530	Orphanet_91492	['biallelic_Eye']		Lost	Early-onset non-syndromic cataract	AGK	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	88.0	0.0	0.0	0.0	0.0
+ENSG00000007062	Orphanet_1872	['biallelic_Eye']		Lost	Cone rod dystrophy	PROM1	0.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	1.0	0.0	0.0	124.0	0.0	0.0	0.0	0.0
+ENSG00000007168	Orphanet_99796	['monoallelic_DD']		Lost	Subcortical band heterotopia	PAFAH1B1	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	3.0	0.0	0.0	4.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0
+ENSG00000007372	MONDO_0007354	['monoallelic_DD', 'monoallelic_Eye']		Lost	coloboma of optic nerve (disease)	PAX6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000007372	MONDO_0044203	['monoallelic_DD', 'monoallelic_Eye']		Lost	foveal hypoplasia	PAX6	0.0	28.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000007372	Orphanet_1065	['monoallelic_DD', 'monoallelic_Eye']		Lost	Aniridia - cerebellar ataxia - intellectual disability	PAX6	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000007372	Orphanet_137902	['monoallelic_DD', 'monoallelic_Eye']		Lost	Isolated optic nerve hypoplasia/aplasia	PAX6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000007372	Orphanet_2334	['monoallelic_DD']		Lost	Autosomal dominant keratitis	PAX6	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	128.0	0.0	0.0	0.0	0.0
+ENSG00000008441	Orphanet_821	['monoallelic_DD']		Lost	Sotos syndrome	NFIX	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	3.0	0.0	0.0	32.0	0.0	0.0	0.0	0.0
+ENSG00000011143	MONDO_0014928	['biallelic_Eye']		Lost	Joubert syndrome 28	MKS1																						
+ENSG00000012061	Orphanet_84	['biallelic_Eye']		Lost	Fanconi anemia	ERCC1	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000013375	Orphanet_443811	['biallelic_DD']		Lost	PGM3-CDG	PGM3																						
+ENSG00000032444	Orphanet_2377	['biallelic_Eye']		Lost	Laurence-Moon syndrome	PNPLA6	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0
+ENSG00000032444	Orphanet_3363	['biallelic_Eye']		Lost	Trichomegaly-retina pigmentary degeneration-dwarfism syndrome	PNPLA6	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0
+ENSG00000039139	Orphanet_244	['biallelic_DD']		Lost	Primary ciliary dyskinesia	DNAH5	0.0	46.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	472.0	0.0	0.0	3.0	0.0	0.0	1453.0	0.0	0.0	0.0	0.0
+ENSG00000040531	EFO_0009049	['biallelic_Eye', 'biallelic_Skin']		Lost	Juvenile nephropathic cystinosis	CTNS	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	8.0	0.0	0.0	76.0	0.0	0.0	0.0	0.0
+ENSG00000040531	MONDO_0009064	['biallelic_Skin']		Lost	ocular cystinosis	CTNS	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000042781	Orphanet_791	['biallelic_Eye']		Lost	Retinitis pigmentosa	USH2A	0.0	226.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	3.0	1.0	0.0	1701.0	1.0	0.0	0.0	0.0
+ENSG00000048342	MONDO_0012848	['biallelic_Eye']		Lost	Meckel syndrome, type 6	CC2D2A																						
+ENSG00000048342	Orphanet_1454	['biallelic_Eye']		Lost	Joubert syndrome with hepatic defect	CC2D2A	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	13.0	0.0	0.0	21.0	0.0	0.0	0.0	0.0
+ENSG00000049540	Orphanet_3193	['monoallelic_DD', 'monoallelic_Skin']		Lost	Supravalvular aortic stenosis	ELN	0.0	114.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	6.0	0.0	0.0	224.0	0.0	0.0	0.0	0.0
+ENSG00000054282	Orphanet_110	['biallelic_Eye']		Lost	Bardet-Biedl syndrome	SDCCAG8	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	20.0	0.0	0.0	0.0	0.0	0.0	136.0	0.0	0.0	0.0	0.0
+ENSG00000054598	Orphanet_708	['monoallelic_DD']		Lost	Peters anomaly	FOXC1	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000055163	Orphanet_1934	['monoallelic_DD']		Lost	Early infantile epileptic encephalopathy	CYFIP2	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000062038	Orphanet_1573	['biallelic_Eye', 'biallelic_Skin']		Lost	Hypotrichosis with juvenile macular degeneration	CDH3	0.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	7.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0
+ENSG00000066468	Orphanet_169163	['monoallelic_Skin']		Lost	Familial scaphocephaly syndrome	FGFR2	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	11.0	0.0	0.0	6.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0
+ENSG00000070814	Orphanet_861	['monoallelic_DD']		Lost	Treacher-Collins syndrome	TCOF1	0.0	86.0	0.0	0.0	0.0	0.0	0.0	26.0	0.0	0.0	1.0	0.0	0.0	0.0	4.0	1.0	0.0	127.0	0.0	0.0	0.0	0.0
+ENSG00000072756	Orphanet_369861	['biallelic_Eye']		Lost	Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome	TRNT1	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	108.0	0.0	0.0	0.0	0.0
+ENSG00000072840	Orphanet_289	['biallelic_Skin']		Lost	Ellis Van Creveld syndrome	EVC	0.0	30.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	8.0	0.0	0.0	527.0	0.0	0.0	0.0	0.0
+ENSG00000073282	MONDO_0011535	['monoallelic_Skin']		Lost	split hand-foot malformation 4	TP63																						
+ENSG00000076242	Orphanet_144	['monoallelic_Skin', 'monoallelic_Cancer']		Lost	Lynch syndrome	MLH1	0.0	745.0	0.0	0.0	0.0	0.0	0.0	44.0	0.0	0.0	3.0	1.0	0.0	0.0	7.0	1.0	0.0	2669.0	2.0	0.0	0.0	0.0
+ENSG00000077080	Orphanet_1934	['biallelic_DD']		Lost	Early infantile epileptic encephalopathy	ACTL6B	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	3.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0
+ENSG00000077782	MONDO_0007794	['monoallelic_DD']		Lost	hypogonadotropic hypogonadism 7 with or without anosmia	FGFR1																						
+ENSG00000077782	Orphanet_478	['monoallelic_DD']		Lost	Kallmann syndrome	FGFR1	0.0	63.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	6.0	0.0	0.0	220.0	1.0	0.0	0.0	0.0
+ENSG00000083799	Orphanet_79493	['monoallelic_Cancer']		Lost	Brooke-Spiegler syndrome	CYLD	0.0	84.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	1.0	0.0	380.0	2.0	0.0	0.0	0.0
+ENSG00000083799	Orphanet_867	['monoallelic_Cancer']		Lost	Familial multiple trichoepithelioma	CYLD	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	114.0	0.0	0.0	0.0	0.0
+ENSG00000084073	Orphanet_90154	['biallelic_Skin']		Lost	Mandibuloacral dysplasia with type B lipodystrophy	ZMPSTE24	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	9.0	0.0	0.0	47.0	0.0	0.0	0.0	0.0
+ENSG00000085998	Orphanet_791	['biallelic_Eye']		Lost	Retinitis pigmentosa	POMGNT1	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	11.0	0.0	0.0	4.0	0.0	0.0	22.0	0.0	0.0	0.0	0.0
+ENSG00000088836	Orphanet_1490	['biallelic_Eye']		Lost	Corneal dystrophy-perceptive deafness syndrome	SLC4A11	0.0	21.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	4.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0
+ENSG00000092295	MONDO_0009441	['biallelic_Skin']		Lost	autosomal recessive congenital ichthyosis 1	TGM1																						
+ENSG00000095787	HP_0001249	['monoallelic_DD']		Lost	Intellectual disability	WAC	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000096696	Orphanet_158687	['biallelic_Skin']		Lost	Lethal acantholytic epidermolysis bullosa	DSP	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	208.0	0.0	0.0	0.0	0.0
+ENSG00000100146	Orphanet_897	['monoallelic_DD', 'monoallelic_Eye', 'monoallelic_Skin']		Lost	Waardenburg-Shah syndrome	SOX10	0.0	41.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	9.0	0.0	0.0	11.0	1.0	0.0	31.0	0.0	0.0	0.0	0.0
+ENSG00000100345	EFO_0009646	['monoallelic_DD']		Lost	macrothrombocytopenia and granulocyte inclusions with or without nephritis or sensorineural hearing loss	MYH9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	36.0	0.0	0.0	0.0	0.0
+ENSG00000100697	EFO_0000437	['monoallelic_Cancer']		Lost	embryonal rhabdomyosarcoma	DICER1	0.0	28.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	0.0	0.0	0.0
+ENSG00000101115	Orphanet_2307	['monoallelic_Eye']		Lost	IVIC syndrome	SALL4	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	6.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ENSG00000101115	Orphanet_959	['monoallelic_DD']		Lost	Acro-renal-ocular syndrome	SALL4	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000101210	Orphanet_1934	['monoallelic_DD']		Lost	Early infantile epileptic encephalopathy	EEF1A2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	102.0	0.0	0.0	0.0	0.0
+ENSG00000101850	MONDO_0010435	['hemizygous_Eye']		Lost	nystagmus 6, congenital, X-linked	GPR143	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0
+ENSG00000102001	Orphanet_215	['hemizygous_Eye']		Lost	Congenital stationary night blindness	CACNA1F	0.0	41.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	8.0	0.0	0.0	3.0	0.0	0.0	36.0	0.0	0.0	0.0	0.0
+ENSG00000103197	Orphanet_538	['monoallelic_DD', 'monoallelic_Skin']		Lost	Lymphangioleiomyomatosis	TSC2	0.0	171.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	2.0	0.0	0.0	0.0	3.0	0.0	0.0	80.0	0.0	0.0	0.0	0.0
+ENSG00000103494	MONDO_0012694	['biallelic_Eye']		Lost	Joubert syndrome 7	RPGRIP1L																						
+ENSG00000103494	Orphanet_1454	['biallelic_Eye']		Lost	Joubert syndrome with hepatic defect	RPGRIP1L	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	10.0	0.0	0.0	11.0	0.0	0.0	0.0	0.0
+ENSG00000104313	Orphanet_2792	['monoallelic_DD']		Lost	Otofaciocervical syndrome	EYA1	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	7.0	0.0	0.0	113.0	0.0	0.0	0.0	0.0
+ENSG00000104447	MONDO_0008597	['monoallelic_Skin']		Lost	trichorhinophalangeal syndrome, type III	TRPS1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	60.0	0.0	0.0	0.0	0.0
+ENSG00000104884	Orphanet_276258	['biallelic_Skin']		Lost	OBSOLETE: Xeroderma pigmentosum complementation group D	ERCC2	0.0	208.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	7.0	1.0	0.0	115.0	0.0	0.0	0.0	0.0
+ENSG00000105664	Orphanet_750	['monoallelic_DD']		Lost	Pseudoachondroplasia	COMP	0.0	74.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	4.0	0.0	0.0	86.0	0.0	0.0	0.0	0.0
+ENSG00000105711	Orphanet_36387	['monoallelic_DD']		Lost	Generalized epilepsy with febrile seizures-plus	SCN1B	0.0	44.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	6.0	0.0	0.0	3.0	0.0	0.0	55.0	0.0	0.0	0.0	0.0
+ENSG00000105991	Orphanet_69739	['biallelic_Eye']		Lost	Athabaskan brainstem dysgenesis syndrome	HOXA1	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	8.0	0.0	0.0	86.0	2.0	0.0	0.0	0.0
+ENSG00000106571	Orphanet_93334	['monoallelic_DD']		Lost	Postaxial polydactyly type A	GLI3	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	2.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0
+ENSG00000107859	EFO_0001059	['monoallelic_DD']		Lost	cataract	PITX3	0.0	34.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	10.0	0.0	0.0	5.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ENSG00000107859	Orphanet_98993	['monoallelic_DD']		Lost	Early-onset posterior polar cataract	PITX3	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ENSG00000108821	Orphanet_666	['monoallelic_DD']		Lost	Osteogenesis imperfecta	COL1A1	0.0	270.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	31.0	0.0	0.0	24.0	0.0	0.0	847.0	3.0	0.0	0.0	0.0
+ENSG00000108946	Orphanet_1359	['monoallelic_Skin', 'monoallelic_Cancer']		Lost	Carney complex	PRKAR1A	0.0	200.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	5.0	1.0	0.0	299.0	2.0	0.0	0.0	0.0
+ENSG00000111670	Orphanet_576	['biallelic_Skin']		Lost	Mucolipidosis type II	GNPTAB	0.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	10.0	0.0	0.0	415.0	0.0	0.0	0.0	0.0
+ENSG00000111752	Orphanet_2512	['biallelic_DD']		Lost	Autosomal recessive primary microcephaly	PHC1	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0
+ENSG00000112041	Orphanet_65	['biallelic_Eye']		Lost	Leber congenital amaurosis	TULP1	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	4.0	0.0	0.0	2.0	0.0	0.0	62.0	0.0	0.0	0.0	0.0
+ENSG00000112357	MONDO_0013945	['biallelic_Eye']		Lost	peroxisome biogenesis disorder 9B	PEX7																						
+ENSG00000112357	Orphanet_773	['biallelic_Skin']		Lost	Refsum disease	PEX7	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	86.0	0.0	0.0	0.0	0.0
+ENSG00000116062	MONDO_0013710	['monoallelic_Cancer']		Lost	colorectal cancer, hereditary nonpolyposis, type 5	MSH6																						
+ENSG00000116745	Orphanet_364055	['biallelic_Eye']		Lost	Severe early-childhood-onset retinal dystrophy	RPE65	0.0	17.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000117118	Orphanet_29072	['monoallelic_Skin', 'monoallelic_Cancer']		Lost	Hereditary pheochromocytoma-paraganglioma	SDHB	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	5.0	0.0	0.0	85.0	0.0	0.0	0.0	0.0
+ENSG00000117394	Orphanet_168577	['monoallelic_Eye']		Lost	Hereditary cryohydrocytosis with reduced stomatin	SLC2A1	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	16.0	0.0	0.0	0.0	0.0
+ENSG00000117394	Orphanet_98811	['monoallelic_DD']		Lost	Paroxysmal exertion-induced dyskinesia	SLC2A1	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	14.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000118046	Orphanet_2869	['monoallelic_Skin', 'monoallelic_Cancer']		Lost	Peutz-Jeghers syndrome	STK11	0.0	281.0	0.0	0.0	0.0	0.0	0.0	10.0	0.0	0.0	1.0	0.0	0.0	0.0	8.0	1.0	0.0	934.0	0.0	0.0	0.0	0.0
+ENSG00000119681	Orphanet_98976	['biallelic_Eye']		Lost	Congenital glaucoma	LTBP2	0.0	18.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	5.0	0.0	0.0	211.0	0.0	0.0	0.0	0.0
+ENSG00000119899	Orphanet_309324	['biallelic_Skin']		Lost	Free sialic acid storage disease, infantile form	SLC17A5	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	67.0	0.0	0.0	0.0	0.0
+ENSG00000121680	Orphanet_912	['biallelic_Eye']		Lost	Zellweger syndrome	PEX16	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	10.0	0.0	0.0	62.0	0.0	0.0	0.0	0.0
+ENSG00000122966	Orphanet_2512	['biallelic_DD']		Lost	Autosomal recessive primary microcephaly	CIT	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	5.0	0.0	0.0	17.0	0.0	0.0	0.0	0.0
+ENSG00000124587	Orphanet_3220	['biallelic_Eye']		Lost	Deafness-enamel hypoplasia-nail defects syndrome	PEX6	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0
+ENSG00000125779	Orphanet_157850	['biallelic_Eye']		Lost	Pantothenate kinase-associated neurodegeneration	PANK2	0.0	117.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	6.0	0.0	0.0	120.0	0.0	0.0	0.0	0.0
+ENSG00000125863	MONDO_0011523	['biallelic_Eye']		Lost	Bardet-Biedl syndrome 6	MKKS																						
+ENSG00000125965	Orphanet_2639	['biallelic_DD']		Lost	Fibular aplasia-complex brachydactyly syndrome	GDF5	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	5.0	0.0	0.0	6.0	0.0	0.0	39.0	0.0	0.0	0.0	0.0
+ENSG00000127980	MONDO_0011101	['biallelic_Eye']		Lost	peroxisome biogenesis disorder 1B	PEX1																						
+ENSG00000127980	Orphanet_3220	['biallelic_Eye']		Lost	Deafness-enamel hypoplasia-nail defects syndrome	PEX1	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	22.0	0.0	0.0	0.0	0.0
+ENSG00000127980	Orphanet_44	['biallelic_Skin']		Lost	Neonatal adrenoleukodystrophy	PEX1	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	87.0	0.0	0.0	0.0	0.0
+ENSG00000127980	Orphanet_772	['biallelic_Skin']		Lost	Infantile Refsum disease	PEX1	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000130283	HP_0001636	['monoallelic_DD']		Lost	Tetralogy of Fallot	GDF1	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ENSG00000130283	Orphanet_2445	['monoallelic_DD']		Lost	Conotruncal heart malformations	GDF1	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ENSG00000130283	Orphanet_860	['monoallelic_DD']		Lost	Congenitally uncorrected transposition of the great arteries	GDF1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0
+ENSG00000130921	Orphanet_320375	['biallelic_Eye']		Lost	Autosomal recessive spastic paraplegia type 55	C12orf65	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0
+ENSG00000134376	Orphanet_65	['biallelic_Eye']		Lost	Leber congenital amaurosis	CRB1	0.0	94.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	12.0	0.0	0.0	5.0	0.0	0.0	403.0	0.0	0.0	0.0	0.0
+ENSG00000134438	Orphanet_194	['biallelic_Eye']		Lost	OBSOLETE: Ocular coloboma	RAX																						
+ENSG00000134982	Orphanet_79665	['monoallelic_Skin']		Lost	Gardner syndrome	APC	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	4.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0
+ENSG00000135341	Orphanet_3238	['monoallelic_DD']		Lost	Cardiospondylocarpofacial syndrome	MAP3K7	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0
+ENSG00000135903	Orphanet_1529	['monoallelic_DD']		Lost	Craniofacial-deafness-hand syndrome	PAX3	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	44.0	0.0	0.0	0.0	0.0
+ENSG00000136352	Orphanet_1429	['monoallelic_DD']		Lost	Benign hereditary chorea	NKX2-1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	3.0	0.0	0.0	43.0	0.0	0.0	0.0	0.0
+ENSG00000136531	Orphanet_140927	['monoallelic_DD']		Lost	Benign familial neonatal-infantile seizures	SCN2A	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	2.0	0.0	0.0	535.0	0.0	0.0	0.0	0.0
+ENSG00000136531	Orphanet_1934	['monoallelic_DD']		Lost	Early infantile epileptic encephalopathy	SCN2A	0.0	22.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	416.0	0.0	0.0	0.0	0.0
+ENSG00000136931	Orphanet_399805	['monoallelic_DD']		Lost	Male infertility with azoospermia or oligozoospermia due to single gene mutation	NR5A1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	6.0	0.0	0.0	20.0	0.0	0.0	0.0	0.0
+ENSG00000137700	Orphanet_79259	['biallelic_Skin']		Lost	Glycogen storage disease due to glucose-6-phosphatase deficiency type Ib	SLC37A4	0.0	14.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	9.0	0.0	0.0	441.0	0.0	0.0	0.0	0.0
+ENSG00000138002	Orphanet_791	['biallelic_Eye']		Lost	Retinitis pigmentosa	IFT172	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	42.0	0.0	0.0	7.0	0.0	0.0	188.0	1.0	0.0	0.0	0.0
+ENSG00000139197	Orphanet_468717	['biallelic_Eye']		Lost	Rhizomelic chondrodysplasia punctata type 5	PEX5																						
+ENSG00000139219	Orphanet_1856	['monoallelic_DD']		Lost	Spondyloperipheral dysplasia-short ulna syndrome	COL2A1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	3.0	0.0	0.0	6.0	0.0	0.0	12.0	0.0	0.0	0.0	0.0
+ENSG00000139219	Orphanet_85166	['monoallelic_DD']		Lost	Platyspondylic dysplasia, Torrance type	COL2A1	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	6.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0
+ENSG00000139618	EFO_1000056	['monoallelic_Skin', 'monoallelic_Cancer']		Lost	obsolete_Wilms tumor(2)	BRCA2																						
+ENSG00000139618	Orphanet_145	['monoallelic_Skin', 'monoallelic_Cancer']		Lost	Hereditary breast and ovarian cancer syndrome	BRCA2	0.0	243.0	0.0	0.0	0.0	0.0	0.0	31.0	0.0	0.0	0.0	0.0	0.0	0.0	12.0	1.0	0.0	12370.0	0.0	0.0	0.0	0.0
+ENSG00000140015	Orphanet_1934	['monoallelic_DD']		Lost	Early infantile epileptic encephalopathy	KCNH5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	121.0	0.0	0.0	0.0	0.0
+ENSG00000140521	MONDO_0013350	['biallelic_Eye']		Lost	mitochondrial DNA depletion syndrome 4b	POLG																						
+ENSG00000140521	Orphanet_254886	['biallelic_Eye']		Lost	Autosomal recessive progressive external ophthalmoplegia	POLG	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	12.0	0.0	0.0	55.0	0.0	0.0	0.0	0.0
+ENSG00000140522	Orphanet_52427	['biallelic_Eye']		Lost	Retinitis punctata albescens	RLBP1	0.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0
+ENSG00000140650	Orphanet_79318	['biallelic_Skin']		Lost	PMM2-CDG	PMM2	0.0	62.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	17.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000143382	Orphanet_1885	['biallelic_Eye']		Lost	Isolated ectopia lentis	ADAMTSL4	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	4.0	0.0	0.0	2.0	0.0	0.0	151.0	0.0	0.0	0.0	0.0
+ENSG00000144061	Orphanet_3156	['biallelic_Eye']		Lost	Senior-Loken syndrome	NPHP1	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	10.0	0.0	0.0	49.0	0.0	0.0	0.0	0.0
+ENSG00000144452	MONDO_0011026	['biallelic_Skin']		Lost	autosomal recessive congenital ichthyosis 4A	ABCA12	0.0	49.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000145715	Orphanet_90307	['monoallelic_DD']		Lost	Parkes Weber syndrome	RASA1	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	48.0	0.0	0.0	0.0	0.0
+ENSG00000147889	MONDO_0007967	['monoallelic_Skin']		Lost	melanoma and neural system tumor syndrome	CDKN2A																						
+ENSG00000147889	Orphanet_404560	['monoallelic_Skin']		Lost	Familial atypical multiple mole melanoma syndrome	CDKN2A	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	1.0	0.0	87.0	0.0	0.0	0.0	0.0
+ENSG00000148400	Orphanet_974	['monoallelic_DD']		Lost	Adams-Oliver syndrome	NOTCH1	0.0	14.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	823.0	0.0	0.0	0.0	0.0
+ENSG00000148600	Orphanet_1872	['biallelic_Eye']		Lost	Cone rod dystrophy	CDHR1	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	5.0	0.0	0.0	1.0	0.0	0.0	147.0	0.0	0.0	0.0	0.0
+ENSG00000152104	Orphanet_99141	['biallelic_DD']		Lost	Lymphedema-posterior choanal atresia syndrome	PTPN14																						
+ENSG00000154122	Orphanet_1416	['monoallelic_DD']		Lost	Familial calcium pyrophosphate deposition	ANKH																						
+ENSG00000154764	Orphanet_2854	['biallelic_DD']		Lost	Fuhrmann syndrome	WNT7A	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ENSG00000154764	Orphanet_2879	['biallelic_DD']		Lost	Phocomelia, Schinzel type	WNT7A	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000154803	Orphanet_2903	['monoallelic_Skin', 'monoallelic_Cancer']		Lost	Familial spontaneous pneumothorax	FLCN	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	3.0	0.0	0.0	105.0	0.0	0.0	0.0	0.0
+ENSG00000156172	MONDO_0044308	['biallelic_Eye']		Lost	bardet-biedl syndrome 21	C8orf37																						
+ENSG00000156313	Orphanet_247522	['hemizygous_Eye']		Lost	Primary ciliary dyskinesia-retinitis pigmentosa syndrome	RPGR	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ENSG00000157423	Orphanet_244	['biallelic_DD']		Lost	Primary ciliary dyskinesia	HYDIN	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	93.0	0.0	0.0	5.0	0.0	0.0	10.0	1.0	0.0	0.0	0.0
+ENSG00000157796	Orphanet_3156	['biallelic_Eye']		Lost	Senior-Loken syndrome	WDR19	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	142.0	0.0	0.0	0.0	0.0
+ENSG00000157856	Orphanet_244	['biallelic_DD']		Lost	Primary ciliary dyskinesia	DRC1	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	54.0	0.0	0.0	2.0	0.0	0.0	122.0	0.0	0.0	0.0	0.0
+ENSG00000160789	EFO_0000407	['monoallelic_Skin']		Lost	dilated cardiomyopathy	LMNA	0.0	405.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	383.0	0.0	0.0	18.0	1.0	0.0	328.0	1.0	0.0	0.0	0.0
+ENSG00000160789	Orphanet_157973	['monoallelic_Skin']		Lost	Congenital muscular dystrophy due to LMNA mutation	LMNA	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	2.0	0.0	0.0	76.0	0.0	0.0	0.0	0.0
+ENSG00000160789	Orphanet_2229	['monoallelic_Skin']		Lost	Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome	LMNA	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	7.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0
+ENSG00000160789	Orphanet_264	['monoallelic_DD', 'monoallelic_Skin']		Lost	Autosomal dominant limb-girdle muscular dystrophy type 1B	LMNA	0.0	23.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	4.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000160789	Orphanet_90153	['monoallelic_Skin']		Lost	Mandibuloacral dysplasia with type A lipodystrophy	LMNA	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	60.0	0.0	0.0	0.0	0.0
+ENSG00000160957	Orphanet_3021	['biallelic_Skin']		Lost	RAPADILINO syndrome	RECQL4	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	3.0	0.0	0.0	53.0	0.0	0.0	0.0	0.0
+ENSG00000162928	Orphanet_912	['biallelic_Eye']		Lost	Zellweger syndrome	PEX13	0.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	2.0	0.0	0.0	140.0	0.0	0.0	0.0	0.0
+ENSG00000163161	Orphanet_33364	['biallelic_Skin']		Lost	Trichothiodystrophy	ERCC3	0.0	24.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0
+ENSG00000163755	Orphanet_231512	['biallelic_Eye']		Lost	Hermansky-Pudlak syndrome without pulmonary fibrosis	HPS3	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000164073	EFO_0001365	['biallelic_Eye']		Lost	age-related macular degeneration	MFSD8	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	9.0	0.0	0.0	0.0	0.0
+ENSG00000164093	Orphanet_708	['monoallelic_DD']		Lost	Peters anomaly	PITX2	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	3.0	0.0	0.0	63.0	0.0	0.0	0.0	0.0
+ENSG00000164751	Orphanet_772	['biallelic_Skin']		Lost	Infantile Refsum disease	PEX2	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000164751	Orphanet_912	['biallelic_Skin']		Lost	Zellweger syndrome	PEX2	0.0	23.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	3.0	0.0	0.0	162.0	0.0	0.0	0.0	0.0
+ENSG00000164953	Orphanet_475	['biallelic_Eye']		Lost	Joubert syndrome	TMEM67	0.0	23.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	9.0	0.0	0.0	10.0	0.0	0.0	189.0	0.0	0.0	0.0	0.0
+ENSG00000165240	Orphanet_198	['hemizygous_Skin']		Lost	Occipital horn syndrome	ATP7A	0.0	41.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	7.0	0.0	0.0	215.0	0.0	0.0	0.0	0.0
+ENSG00000165410	Orphanet_607	['biallelic_DD']		Lost	Nemaline myopathy	CFL2	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	2.0	0.0	0.0	4.0	1.0	0.0	57.0	1.0	0.0	0.0	0.0
+ENSG00000165671	Orphanet_3447	['monoallelic_DD', 'monoallelic_Skin']		Lost	Weaver syndrome	NSD1	0.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	57.0	0.0	0.0	0.0	0.0
+ENSG00000165699	Orphanet_805	['monoallelic_Cancer']		Lost	Tuberous sclerosis complex	TSC1	0.0	955.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	8.0	1.0	0.0	2097.0	0.0	0.0	0.0	0.0
+ENSG00000166206	HP_0200134	['monoallelic_DD']		Lost	Epileptic encephalopathy	GABRB3	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0
+ENSG00000166311	Orphanet_77293	['biallelic_Skin']		Lost	Niemann-Pick disease type B	SMPD1	0.0	28.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	157.0	0.0	0.0	0.0	0.0
+ENSG00000167646	Orphanet_244	['biallelic_DD']		Lost	Primary ciliary dyskinesia	DNAAF3	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	39.0	0.0	0.0	7.0	0.0	0.0	135.0	0.0	0.0	0.0	0.0
+ENSG00000168014	Orphanet_434179	['biallelic_DD']		Lost	Orofaciodigital syndrome type 14	C2CD3																						
+ENSG00000169071	Orphanet_3107	['monoallelic_DD']		Lost	Autosomal dominant Robinow syndrome	ROR2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000169946	HP_0001636	['monoallelic_DD']		Lost	Tetralogy of Fallot	ZFPM2	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0
+ENSG00000169946	Orphanet_242	['monoallelic_DD']		Lost	46,XY complete gonadal dysgenesis	ZFPM2	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	55.0	0.0	0.0	0.0	0.0
+ENSG00000170266	Orphanet_309310	['biallelic_Skin']		Lost	Mucopolysaccharidosis type 4B	GLB1	0.0	23.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	10.0	0.0	0.0	266.0	0.0	0.0	0.0	0.0
+ENSG00000170266	Orphanet_79255	['biallelic_Skin']		Lost	GM1 gangliosidosis type 1	GLB1	0.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	11.0	0.0	0.0	300.0	0.0	0.0	0.0	0.0
+ENSG00000170266	Orphanet_79256	['biallelic_Skin']		Lost	GM1 gangliosidosis type 2	GLB1	0.0	7.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	1.0	0.0	0.0	0.0	11.0	0.0	0.0	106.0	0.0	0.0	0.0	0.0
+ENSG00000171759	Orphanet_716	['biallelic_Skin']		Lost	Phenylketonuria	PAH	0.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	4.0	0.0	19.0	5.0	1.0	0.0	646.0	0.0	0.0	1.0	0.0
+ENSG00000171862	Orphanet_109	['monoallelic_DD', 'monoallelic_Eye', 'monoallelic_Skin']		Lost	Bannayan-Riley-Ruvalcaba syndrome	PTEN	0.0	108.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0
+ENSG00000171862	Orphanet_3412	['monoallelic_Skin']		Lost	VACTERL with hydrocephalus	PTEN	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	16.0	0.0	0.0	0.0	0.0
+ENSG00000173040	Orphanet_289	['biallelic_Skin']		Lost	Ellis Van Creveld syndrome	EVC2	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	9.0	0.0	0.0	450.0	0.0	0.0	0.0	0.0
+ENSG00000173226	Orphanet_3156	['biallelic_Eye']		Lost	Senior-Loken syndrome	IQCB1	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	6.0	0.0	0.0	60.0	0.0	0.0	0.0	0.0
+ENSG00000174106	Orphanet_2485	['monoallelic_DD', 'monoallelic_Skin']		Lost	Melorheostosis	LEMD3	0.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000174405	Orphanet_275	['biallelic_Skin']		Lost	Severe combined immunodeficiency due to DCLRE1C deficiency	LIG4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	4.0	0.0	0.0	84.0	0.0	0.0	0.0	0.0
+ENSG00000175054	Orphanet_808	['biallelic_DD']		Lost	Seckel syndrome	ATR	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	2.0	0.0	0.0	6.0	0.0	0.0	148.0	1.0	0.0	0.0	0.0
+ENSG00000175595	Orphanet_220295	['biallelic_Cancer']		Lost	Xeroderma pigmentosum-Cockayne syndrome complex	ERCC4	0.0	52.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	4.0	0.0	0.0	9.0	1.0	0.0	299.0	1.0	0.0	0.0	0.0
+ENSG00000176692	EFO_1001452	['monoallelic_Skin']		Lost	Yellow Nail Syndrome	FOXC2	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000177628	Orphanet_2072	['biallelic_Skin']		Lost	Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome	GBA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000177628	Orphanet_355	['biallelic_Skin']		Lost	Gaucher disease	GBA	0.0	689.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12.0	2.0	0.0	4.0	68.0	1.0	0.0	331.0	2.0	0.0	0.0	0.0
+ENSG00000177628	Orphanet_77259	['biallelic_Skin']		Lost	Gaucher disease type 1	GBA	0.0	36.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	16.0	0.0	0.0	97.0	0.0	0.0	0.0	0.0
+ENSG00000177628	Orphanet_77260	['biallelic_Skin']		Lost	Gaucher disease type 2	GBA	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	15.0	0.0	0.0	52.0	0.0	0.0	0.0	0.0
+ENSG00000177628	Orphanet_77261	['biallelic_Skin']		Lost	Gaucher disease type 3	GBA	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	15.0	0.0	0.0	52.0	0.0	0.0	0.0	0.0
+ENSG00000179348	Orphanet_228423	['monoallelic_Cancer']		Lost	Monocytopenia with susceptibility to infections	GATA2	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	373.0	0.0	0.0	0.0	0.0
+ENSG00000180644	Orphanet_540	['biallelic_Cancer']		Lost	Familial hemophagocytic lymphohistiocytosis	PRF1	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	19.0	0.0	0.0	3.0	0.0	0.0	205.0	0.0	0.0	0.0	0.0
+ENSG00000184937	Orphanet_347	['monoallelic_DD']		Lost	Frasier syndrome	WT1	0.0	74.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	6.0	0.0	0.0	422.0	0.0	0.0	0.0	0.0
+ENSG00000186184	Orphanet_861	['monoallelic_DD']		Lost	Treacher-Collins syndrome	POLR1D	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0
+ENSG00000186765	MONDO_0011935	['monoallelic_Eye']		Lost	retinitis pigmentosa 30	FSCN2																						
+ENSG00000186790	EFO_0005569	['biallelic_Eye']		Lost	microphthalmia	FOXE3	0.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	26.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000188910	Orphanet_317	['monoallelic_DD', 'monoallelic_Skin']		Lost	Erythrokeratodermia variabilis	GJB3	0.0	31.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	4.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000196189	Orphanet_1872	['biallelic_Eye']		Lost	Cone rod dystrophy	SEMA4A	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	15.0	0.0	0.0	1.0	0.0	0.0	61.0	0.0	0.0	0.0	0.0
+ENSG00000196712	MONDO_0008672	['monoallelic_DD', 'monoallelic_Skin']		Lost	Watson syndrome	NF1	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000196712	Orphanet_638	['monoallelic_DD', 'monoallelic_Skin']		Lost	Neurofibromatosis-Noonan syndrome	NF1	0.0	30.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	15.0	0.0	0.0	207.0	0.0	0.0	25.0	0.0
+ENSG00000196924	MONDO_0010297	['hemizygous_DD', 'hemizygous_Skin']		Lost	FG syndrome 2	FLNA																						
+ENSG00000196924	Orphanet_90650	['hemizygous_DD', 'hemizygous_Skin']		Lost	Otopalatodigital syndrome type 1	FLNA	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	6.0	0.0	0.0	19.0	0.0	0.0	0.0	0.0
+ENSG00000196924	Orphanet_98892	['x-linked dominant_Skin']		Lost	Periventricular nodular heterotopia	FLNA	0.0	82.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1.0	0.0	653.0	0.0	0.0	0.0	0.0
+ENSG00000197535	Orphanet_221054	['biallelic_Skin']		Lost	Acrocephalopolydactyly	MYO5A	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000198691	Orphanet_791	['biallelic_Eye']		Lost	Retinitis pigmentosa	ABCA4	0.0	70.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	2.0	0.0	0.0	57.0	0.0	0.0	0.0	0.0
+ENSG00000198691	Orphanet_827	['biallelic_Eye']		Lost	Stargardt disease	ABCA4	0.0	240.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	4.0	0.0	0.0	480.0	0.0	0.0	0.0	0.0
+ENSG00000198707	MONDO_0014442	['biallelic_Eye']		Lost	Bardet-Biedl syndrome 14	CEP290																						
+ENSG00000198707	Orphanet_3156	['biallelic_Eye']		Lost	Senior-Loken syndrome	CEP290	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	10.0	0.0	0.0	10.0	0.0	0.0	155.0	0.0	0.0	0.0	0.0
+ENSG00000198707	Orphanet_65	['biallelic_Eye']		Lost	Leber congenital amaurosis	CEP290	0.0	98.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	9.0	0.0	0.0	6.0	0.0	0.0	188.0	0.0	0.0	0.0	0.0
+ENSG00000198910	HP_0001338	['hemizygous_DD']		Lost	Partial agenesis of the corpus callosum	L1CAM	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ENSG00000198910	Orphanet_2466	['hemizygous_DD']		Lost	MASA syndrome	L1CAM	0.0	14.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	3.0	0.0	0.0	3.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0
+ENSG00000198947	MONDO_0010542	['hemizygous_DD']		Lost	dilated cardiomyopathy 3B	DMD	0.0	2251.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	24.0	0.0	23.0	19.0	0.0	0.0	1741.0	1.0	0.0	0.0	0.0
+ENSG00000198947	Orphanet_98895	['hemizygous_DD']		Lost	Becker muscular dystrophy	DMD	0.0	617.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	24.0	0.0	0.0	7.0	0.0	0.0	62.0	0.0	0.0	0.0	0.0
+ENSG00000198951	Orphanet_3137	['biallelic_Skin']		Lost	Alpha-N-acetylgalactosaminidase deficiency	NAGA	0.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	9.0	0.0	0.0	149.0	2.0	0.0	0.0	0.0
+ENSG00000205084	Orphanet_564	['biallelic_Eye']		Lost	Meckel syndrome	TMEM231	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	48.0	0.0	0.0	0.0	0.0
+ENSG00000213398	Orphanet_650	['biallelic_Eye']		Lost	LCAT deficiency	LCAT	0.0	112.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	12.0	0.0	0.0	9.0	0.0	0.0	42.0	1.0	0.0	0.0	0.0
+ENSG00000215193	Orphanet_44	['biallelic_Skin']		Lost	Neonatal adrenoleukodystrophy	PEX26	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000215193	Orphanet_772	['biallelic_Skin']		Lost	Infantile Refsum disease	PEX26	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000225830	Orphanet_1466	['biallelic_Eye']		Lost	COFS syndrome	ERCC6	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	285.0	0.0	0.0	0.0	0.0
+ENSG00000225830	Orphanet_1569	['biallelic_Skin']		Lost	De Sanctis-Cacchione syndrome	ERCC6																						
+ENSG00000234438	Orphanet_607	['monoallelic_DD']		Lost	Nemaline myopathy	KBTBD13	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	4.0	1.0	0.0	200.0	1.0	0.0	0.0	0.0
+ENSG00000240505	MONDO_0009413	['biallelic_DD']		Lost	immunodeficiency, common variable, 2	TNFRSF13B																						
+ENSG00000241635	Orphanet_205	['biallelic_DD']		Lost	Crigler-Najjar syndrome	UGT1A1	0.0	96.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	5.0	0.0	0.0	79.0	1.0	0.0	12.0	0.0
+ENSG00000254585	Orphanet_97120	['imprinted_DD']		Lost	Distal arthrogryposis	MAGEL2	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000258947	Orphanet_45358	['monoallelic_DD']		Lost	Congenital fibrosis of extraocular muscles	TUBB3	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	12.0	0.0	0.0	0.0	0.0
+ENSG00000269335	Orphanet_319612	['hemizygous_DD']		Lost	X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency	IKBKG	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	6.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0
+ENSG00000269335	Orphanet_69088	['hemizygous_DD']		Lost	Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome	IKBKG	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	10.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+ENSG00000273079	EFO_0003758	['monoallelic_DD']		Lost	autism	GRIN2B	0.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ENSG00000013375	MONDO_0014353		['biallelic_DD']	Gained	PGM3-CDG	PGM3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000039139	MONDO_0012085		['biallelic_DD']	Gained	primary ciliary dyskinesia 3	DNAH5																						
+ENSG00000055163	MONDO_0100062		['monoallelic_DD']	Gained	developmental and epileptic encephalopathy	CYFIP2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	3.0	0.0	0.0	14.0	1.0	0.0	0.0	0.0
+ENSG00000070814	MONDO_0007944		['monoallelic_DD']	Gained	Treacher-Collins syndrome 1	TCOF1																						
+ENSG00000073282	MONDO_0011428		['monoallelic_Skin']	Gained	ectrodactyly, ectodermal dysplasia, and cleft lip-palate syndrome 3	TP63	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000077080	MONDO_0100062		['biallelic_DD']	Gained	developmental and epileptic encephalopathy	ACTL6B	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000077782	MONDO_0007844		['monoallelic_DD']	Gained	hypogonadotropic hypogonadism 2 with or without anosmia	FGFR1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	6.0	0.0	0.0	206.0	1.0	0.0	0.0	0.0
+ENSG00000095787	Orphanet_284169		['monoallelic_DD']	Gained	Facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to 10p11.21p12.31 microdeletion	WAC	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	14.0	1.0	0.0	0.0	0.0
+ENSG00000101210	MONDO_0100062		['monoallelic_DD']	Gained	developmental and epileptic encephalopathy	EEF1A2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000108946	MONDO_0008057		['monoallelic_Skin', 'monoallelic_Cancer']	Gained	Carney complex, type 1	PRKAR1A	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	2.0	0.0	0.0	0.0
+ENSG00000111678	Orphanet_1777		['biallelic_DD', 'biallelic_Eye']	Gained	Temtamy syndrome	C12orf57	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	7.0	0.0	0.0	69.0	2.0	0.0	0.0	0.0
+ENSG00000111752	Orphanet_199642		['biallelic_DD']	Gained	Isolated congenital microcephaly	PHC1	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	1.0	0.0	0.0	0.0
+ENSG00000112320	EFO_0003847		['biallelic_DD']	Gained	mental retardation	SOBP	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	3.0	0.0	0.0	0.0	0.0	0.0	3.0	1.0	0.0	0.0	0.0
+ENSG00000120733	EFO_0010740		['monoallelic_DD']	Gained	Diets-Jongmans syndrome	KDM3B	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	1.0	0.0	0.0	0.0
+ENSG00000122966	Orphanet_199642		['biallelic_DD']	Gained	Isolated congenital microcephaly	CIT	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	5.0	0.0	0.0	17.0	1.0	0.0	0.0	0.0
+ENSG00000130283	MONDO_0013463		['monoallelic_DD']	Gained	dextro-looped transposition of the great arteries 3	GDF1																						
+ENSG00000134438	MONDO_0001476		['biallelic_Eye']	Gained	coloboma	RAX	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000136531	MONDO_0100062		['monoallelic_DD']	Gained	developmental and epileptic encephalopathy	SCN2A	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000140015	MONDO_0100062		['monoallelic_DD']	Gained	developmental and epileptic encephalopathy	KCNH5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000147862	MONDO_0032658		['monoallelic_DD']	Gained	macrocephaly, acquired, with impaired intellectual development	NFIB																						
+ENSG00000152104	MONDO_0013324		['biallelic_DD']	Gained	lymphedema-posterior choanal atresia syndrome	PTPN14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+ENSG00000154122	MONDO_0007319		['monoallelic_DD']	Gained	familial calcium pyrophosphate deposition	ANKH	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000157423	MONDO_0012088		['biallelic_DD']	Gained	primary ciliary dyskinesia 5	HYDIN	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000163755	MONDO_0013555		['biallelic_Eye']	Gained	Hermansky-Pudlak syndrome 3	HPS3	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000165410	MONDO_0012538		['biallelic_DD']	Gained	nemaline myopathy 7	CFL2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	4.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000168014	Orphanet_369902		['biallelic_DD']	Gained	OBSOLETE: DDX59-related orofaciodigital syndrome	C2CD3	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000168509	MONDO_0011216		['biallelic_Skin']	Gained	hemochromatosis type 2A	HJV	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000169071	Orphanet_1507		['biallelic_DD']	Gained	Autosomal recessive Robinow syndrome	ROR2	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	126.0	1.0	0.0	0.0	0.0
+ENSG00000171862	Orphanet_306498		['monoallelic_DD']	Gained	PTEN hamartoma tumor syndrome	PTEN	0.0	588.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	2.0	0.0	0.0	42.0	1.0	0.0	1033.0	4.0	0.0	0.0	0.0
+ENSG00000175054	MONDO_0008869		['biallelic_DD']	Gained	Seckel syndrome 1	ATR	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000178467	MONDO_0032780		['biallelic_DD']	Gained	hypotonia, hypoventilation, impaired intellectual development, dysautonomia, epilepsy, and eye abnormalities	P4HTM																						
+ENSG00000180644	MONDO_0011337		['biallelic_Cancer']	Gained	familial hemophagocytic lymphohistiocytosis 2	PRF1																						
+ENSG00000186184	MONDO_0013385		['monoallelic_DD']	Gained	Treacher Collins syndrome 2	POLR1D																						
+ENSG00000186765	Orphanet_791		['monoallelic_Eye']	Gained	Retinitis pigmentosa	FSCN2	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	55.0	0.0	0.0	0.0	0.0	0.0	9.0	1.0	0.0	0.0	0.0
+ENSG00000188706	MONDO_0010427		['hemizygous_DD']	Gained	syndromic X-linked intellectual disability Raymond type	ZDHHC9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000196924	Orphanet_669		['hemizygous_DD']	Gained	OBSOLETE: Otopalatodigital syndrome	FLNA	0.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	2.0	0.0	0.0	8.0	0.0	0.0	618.0	2.0	0.0	0.0	0.0
+ENSG00000234438	MONDO_0012237		['monoallelic_DD']	Gained	nemaline myopathy 6	KBTBD13	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+ENSG00000240505	Orphanet_1572		['biallelic_DD']	Gained	Common variable immunodeficiency	TNFRSF13B	0.0	85.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.0	0.0	0.0	1.0	0.0	0.0	101.0	1.0	0.0	0.0	0.0
+ENSG00000241635	Orphanet_79234		['biallelic_DD']	Gained	Crigler-Najjar syndrome type 1	UGT1A1	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	67.0	1.0	0.0	0.0	0.0

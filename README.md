@@ -25,7 +25,7 @@ This is just a collection of some notebooks I worked on or prototyping various t
 
 * **[2020.10.06_testing_new_networks_data_release](2020.10.06_testing_new_networks_data_release)**: to make sure the previously found issues are fixed an other round of checks were applied.
 
-* **[2021.02.15_release_check_clingen](2021.02.15_release_check_clingen)**: the 21.02 release introduced a moderate number of new ClinGen evidence. The aim of this task was to find out if any of these new evidence mean a totally new association not yet supported by any other genetic evidence.
+* **[2021.02.15_release_check](2021.02.15_release_check)**: the 21.02 release introduced a moderate number of new ClinGen and Gene2Phenotype evidence. The aim of this task was to find out if any of these new evidence mean a totally new association not yet supported by any other genetic evidence.
 
 * **[TEP_parsing](TEP_parsing)**: prototyping a pipeline to retrieve TEP (target enabling package) from [SGC](https://www.thesgc.org/).
 
