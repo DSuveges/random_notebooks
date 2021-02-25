@@ -16,6 +16,7 @@ This is just a collection of some notebooks I worked on or prototyping various t
 
 * **[issue-1330_String_data_missing](issue-1330_String_data_missing)**: in the same release, an other interaction related issue had been identified: an entire type of interactions are missing from the STRING table. Let's find out why. 
 
+* **[issue-1393_getting_gene_name_synonym](issue-1393_getting_gene_name_synonym)**: a small project to assemble a complete vocabulary for gene aliases/synonyms/labels and names. 
 
 ## Quick tasks
 
