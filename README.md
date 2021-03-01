@@ -18,6 +18,8 @@ This is just a collection of some notebooks I worked on or prototyping various t
 
 * **[issue-1393_getting_gene_name_synonym](issue-1393_getting_gene_name_synonym)**: a small project to assemble a complete vocabulary for gene aliases/synonyms/labels and names. 
 
+* **[issue-1421_checking_intact_data](issue-1421_checking_intact_data)**: checking the most recent release of the Intact pipeline. We had to make sure the reported issue with Signor dataset is resolved.
+
 ## Quick tasks
 
 * **[2020.09.15_checking_intact_data](2020.09.15_checking_intact_data)**: the first release of the networks data dump is being checked. Just to see if everything is alright.
