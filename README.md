@@ -16,6 +16,8 @@ This is just a collection of some notebooks I worked on or prototyping various t
 
 * **[issue-1330_String_data_missing](issue-1330_String_data_missing)**: in the same release, an other interaction related issue had been identified: an entire type of interactions are missing from the STRING table. Let's find out why. 
 
+* **[issue-1370_new_EPMC_parser](issue-1370_new_EPMC_parser)**: ePMC is developing a new ML pipeline to recognize drug/disease/target entities and recognise their associations. This new pipeline however will not create target/disease evidences for the OT platform. From 21.04, a new evidence parser maintained by the data team will do the job.
+
 * **[issue-1393_getting_gene_name_synonym](issue-1393_getting_gene_name_synonym)**: a small project to assemble a complete vocabulary for gene aliases/synonyms/labels and names. 
 
 * **[issue-1421_checking_intact_data](issue-1421_checking_intact_data)**: checking the most recent release of the Intact pipeline. We had to make sure the reported issue with Signor dataset is resolved.
