@@ -6,6 +6,8 @@ This is just a collection of some notebooks I worked on or prototyping various t
 
 ## Tickets
 
+* **[issue-442-Investigate_target_identifiers](issue-442-Investigate_target_identifiers)**: Some of the genetics portal sourced evidence were failing because of invalid target id (Ensembl gene id), in this notebook I investigated where these files were used and why these ids were failing.
+
 * **[issue-1166_benchmarking_clingen_evidences](issue-1166_benchmarking_clingen_evidences)**: checking score distribution of ClinGen evidence strings
 
 * **[issue-1249_prototyping_new_json_schema](issue-1249_prototyping_new_json_schema)**: as part of the rewrite efforts the evidence input was re-structured. To formulate these changes a new schema was developed reflecting the new requirements.
