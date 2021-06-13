@@ -32,43 +32,76 @@ def main():
             .getOrCreate()
     )
 
-    # Process data:
-    (
-        spark.read.parquet(input_file)
-        .filter(
-            (col('type') == "GP-DS") & # Filtering for gene/disease cooccurrence
-            (col('isMapped') == True) & # Filtering for mapping
-            (col('pmid') != "")  # Filtering out missing pmids
-        )
-        .groupby([col('pmid'), col('label1')])
-        .agg(
-            collect_set(col('keywordId1')).alias('targetFromSourceId'),
-        )
-        .withColumn('targetCount', size(col('targetFromSourceId')))
-        .filter(col('targetCount') > threshold)
-        .orderBy(col('targetCount').desc())
-        .coalesce(1).write.format('json').mode('overwrite').option('compression', 'gzip')
-        .save(f'{output_file}_target.json.gz')
-    )
+    # # Process data:
+    # (
+    #     spark.read.parquet(input_file)
+    #     .filter(
+    #         (col('type') == "GP-DS") & # Filtering for gene/disease cooccurrence
+    #         (col('isMapped') == True) & # Filtering for mapping
+    #         (col('pmid') != "")  # Filtering out missing pmids
+    #     )
+    #     .groupby([col('pmid'), col('label1')])
+    #     .agg(
+    #         collect_set(col('keywordId1')).alias('targetFromSourceId'),
+    #     )
+    #     .withColumn('targetCount', size(col('targetFromSourceId')))
+    #     .filter(col('targetCount') > threshold)
+    #     .orderBy(col('targetCount').desc())
+    #     .coalesce(1).write.format('json').mode('overwrite').option('compression', 'gzip')
+    #     .save(f'{output_file}_target.json.gz')
+    # )
 
-    # Process data:
+    # # Process data:
+    # (
+    #     spark.read.parquet(input_file)
+    #     .filter(
+    #         (col('type') == "GP-DS") & # Filtering for gene/disease cooccurrence
+    #         (col('isMapped') == True) & # Filtering for mapping
+    #         (col('pmid') != "")  # Filtering out missing pmids
+    #     )
+    #     .groupby([col('pmid'), col('label2')])
+    #     .agg(
+    #         collect_set(col('keywordId2')).alias('diseaseFromSourceMappedIds'),
+    #     )
+    #     .withColumn('diseaseCount', size(col('diseaseFromSourceMappedIds')))
+    #     .filter(col('diseaseCount') > 3)
+    #     .coalesce(1)
+    #     .orderBy(col('diseaseCount').desc())
+    #     .write.format('json').mode('overwrite').option('compression', 'gzip')
+    #     .save(f'{output_file}_disease.json.gz')
+    # )
+
+    # (
+    #     spark.read.parquet(input_file)
+    #     .filter(
+    #         (col('type') == "GP-DS") & # Filtering for gene/disease cooccurrence
+    #         (col('isMapped') == True) & # Filtering for mapping
+    #         (col('pmid') != "")  # Filtering out missing pmids
+    #     )
+    #     .groupby(col('label1'))
+    #     .agg(
+    #         collect_set(col('keywordId1')).alias('targetFromSourceId'),
+    #     )
+    #     .withColumn('targetCount', size(col('targetFromSourceId')))
+    #     .filter(col('targetCount') > threshold)
+    #     .write.format('json').mode('overwrite').option('compression', 'gzip')
+    #     .save(f'{output_file}_target.json.gz')
+    # )
+
     (
         spark.read.parquet(input_file)
         .filter(
             (col('type') == "GP-DS") & # Filtering for gene/disease cooccurrence
             (col('isMapped') == True) & # Filtering for mapping
-            (col('pmid') != "")  # Filtering out missing pmids
+            (col('pmid') != "")  & # Filtering out missing pmids
+            (
+                (lower(col('label1')) == 'tec') |
+                (lower(col('label1')) == ')'  ) |
+                (lower(col('label1')) == 'S-' )
+            )
         )
-        .groupby([col('pmid'), col('label2')])
-        .agg(
-            collect_set(col('keywordId2')).alias('diseaseFromSourceMappedIds'),
-        )
-        .withColumn('diseaseCount', size(col('diseaseFromSourceMappedIds')))
-        .filter(col('diseaseCount') > 3)
-        .coalesce(1)
-        .orderBy(col('diseaseCount').desc())
-        .write.format('json').mode('overwrite').option('compression', 'gzip')
-        .save(f'{output_file}_disease.json.gz')
+        .write.format('parquet').mode('overwrite')
+        .save(f'{output_file}_target.parquet')
     )
 
 if __name__ == '__main__':
